@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-ascii",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "render": "bun run render.ts"
+  },
+  "dependencies": {
+    "beautiful-mermaid": "^0.1.3"
+  }
+}
