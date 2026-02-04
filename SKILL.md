@@ -1,6 +1,7 @@
 ---
 name: diagramming-flows
 description: Use when visualizing architecture, code flow, state machines, sequences, or entity relationships. Renders mermaid diagrams as ASCII/unicode art directly in the terminal. Triggers on "draw a diagram", "visualize this flow", "show me the architecture", "sequence diagram", "flowchart", "state machine", "ER diagram".
+allowed-commands: 'Bash(bun run render.ts *')
 ---
 
 # Rendering Mermaid Diagrams as ASCII
